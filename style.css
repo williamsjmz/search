@@ -1,9 +1,56 @@
+.links {
+    margin-top: 20px;
+    margin-left: 1700px;
+}
+
+.link {
+    margin-left: 10px;
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+.searcher {
+    margin-left: 680px;
+    margin-top: 90px;
+}
+
+.logo {
+    width: 500px;
+    margin-left: 30px;
+}
+
+.navbar {
+    width: 530px;
+    height: 40px;
+    font-size: 15px;
+    border-color: gainsboro;
+    border-radius: 30px;
+    border-width: 0.1px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    margin-top: -10px;
+}
+
+.navbar:hover {
+    border-color: black;
+}
+
+.btns {
+    margin-left: 130px;
+}
+
 .srcbtn {
     width: 125px;
     height: 32.5px;
     font-size: 14px;
     background-color: rgb(245, 245, 245);
-    border-color: white;
+    border-color: gainsboro;
     border-width: 0px;
     border-radius: 5px;
     margin-left: 10px;
@@ -12,23 +59,3 @@
 .srcbtn:hover {
     border-width: 0.1px;
 } 
-
-.btns {
-    margin-left: 85px;
-}
-
-.navbar {
-    width: 450px;
-    height: 30px;
-    font-size: 15px;
-    border-color: rgb(245, 245, 245);
-    border-radius: 20px;
-    padding-left: 15px;
-    border-top-width: thin;
-    border-left-width: thin;
-    margin-bottom: 30px;
-}
-
-.navbar:hover {
-    border-width: initial;
-}

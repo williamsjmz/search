@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Google Search</title>
+        <title>Google</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <div>
-            <a href="image_search.html">Google Image Search</a>
-            <a href="advanced_search.html">Google Advanced Search</a>
+        <div class="links">
+            <a href="image_search.html" class="link">Images</a>
+            <a href="advanced_search.html" class="link">Advanced Search</a>
         </div>
-        <h1>Google</h1>
-        <div>
-            <form action="https://google.com/search?">
-                <div>
-                    <input type="text" name="q" class="navbar">
-                </div>
-                <div class="btns">
-                    <input type="submit" value="Google Search" name="btnK" class="srcbtn">
-                    <input type="submit" value="I'm Feeling Lucky" name="btnI" class="srcbtn">
-                </div>
-            </form>
+        <div class="searcher">
+            <img src="images/google.jpg" alt="Google Logo" class="logo">
+            <div>
+                <form action="https://google.com/search?">
+                    <div>
+                        <input type="text" name="q" class="navbar">
+                    </div>
+                    <div class="btns">
+                        <input type="submit" value="Google Search" name="btnK" class="srcbtn">
+                        <input type="submit" value="I'm Feeling Lucky" name="btnI" class="srcbtn">
+                    </div>
+                </form>
+            </div>
         </div>
     </body>
 </html>
