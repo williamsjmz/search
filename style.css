@@ -23,7 +23,7 @@
 
 #images {
     margin-left: 680px;
-    margin-top: 180px;
+    margin-top: 175px;
 }
 
 #logo-srch {
@@ -35,6 +35,7 @@
     width: 260px;
     height: 90px;
     margin-left: 150px;
+    margin-bottom: 45px;
 }
 
 #navbar-srch {
@@ -51,7 +52,7 @@
 
 #navbar-img {
     width: 530px;
-    height: 35px;
+    height: 40px;
     font-size: 15px;
     border-color: gainsboro;
     border-radius: 30px;
