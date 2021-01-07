@@ -8,6 +8,7 @@
     color: black;
     font-size: 15px;
     text-decoration: none;
+    font-family: Calibri;
 }
 
 .link:hover {
@@ -15,17 +16,28 @@
     color: gray;
 }
 
-.searcher {
+#search {
     margin-left: 680px;
     margin-top: 90px;
 }
 
-.logo {
+#images {
+    margin-left: 680px;
+    margin-top: 180px;
+}
+
+#logo-srch {
     width: 500px;
     margin-left: 30px;
 }
 
-.navbar {
+#logo-img {
+    width: 260px;
+    height: 90px;
+    margin-left: 150px;
+}
+
+#navbar-srch {
     width: 530px;
     height: 40px;
     font-size: 15px;
@@ -37,15 +49,31 @@
     margin-top: -10px;
 }
 
-.navbar:hover {
+#navbar-img {
+    width: 530px;
+    height: 35px;
+    font-size: 15px;
+    border-color: gainsboro;
+    border-radius: 30px;
+    border-width: 0.1px;
+    padding-left: 15px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+#navbar-srch:hover {
     border-color: black;
 }
 
-.btns {
+#btns-srch {
     margin-left: 130px;
 }
 
-.srcbtn {
+#btns-img {
+    margin-left: 200px;
+}
+
+.btn-srch-img {
     width: 125px;
     height: 32.5px;
     font-size: 14px;
@@ -56,6 +84,6 @@
     margin-left: 10px;
 }
 
-.srcbtn:hover {
+.btn-srch-img:hover {
     border-width: 0.1px;
 } 
