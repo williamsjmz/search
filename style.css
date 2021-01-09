@@ -92,8 +92,44 @@
 #header {
     margin-top: -10px;
     margin-left: -10px;
+    padding-bottom: 1px;
 }
 
 #advanced-search {
     width: 1950px;
+}
+
+#form {
+    margin-top: -17px;
+    margin-left: 35px;
+    font-family: calibri;
+}
+
+#form-item {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+#navbar-advanced-srch-1, #navbar-advanced-srch-2, #navbar-advanced-srch-3,  #navbar-advanced-srch-4 {
+    height: 22px;
+    width: 580px;
+    border-color: rgb(245, 245, 245);
+    border-width: 0.1px;
+    margin-right: 10px;
+}
+
+#navbar-advanced-srch-1 {
+    margin-left: 75px;
+}
+
+#navbar-advanced-srch-2 {
+    margin-left: 18px;
+}
+
+#navbar-advanced-srch-3 {
+    margin-left: 53px;
+}
+
+#navbar-advanced-srch-4 {
+    margin-left: 42px;
 }
