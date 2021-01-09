@@ -88,3 +88,12 @@
 .btn-srch-img:hover {
     border-width: 0.1px;
 } 
+
+#header {
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+#advanced-search {
+    width: 1950px;
+}
