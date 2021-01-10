@@ -1,135 +1,141 @@
 .links {
-    margin-top: 20px;
-    margin-left: 1700px;
+  margin-top: 20px;
+  margin-left: 1700px;
 }
 
 .link {
-    margin-left: 10px;
-    color: black;
-    font-size: 15px;
-    text-decoration: none;
-    font-family: Calibri;
+  margin-left: 10px;
+  color: black;
+  font-size: 15px;
+  text-decoration: none;
+  font-family: Calibri;
 }
 
 .link:hover {
-    text-decoration: underline;
-    color: gray;
+  text-decoration: underline;
+  color: gray;
 }
 
 #search {
-    margin-left: 680px;
-    margin-top: 90px;
+  margin-left: 680px;
+  margin-top: 90px;
 }
 
 #images {
-    margin-left: 680px;
-    margin-top: 175px;
+  margin-left: 680px;
+  margin-top: 175px;
 }
 
 #logo-srch {
-    width: 500px;
-    margin-left: 30px;
+  width: 500px;
+  margin-left: 30px;
 }
 
 #logo-img {
-    width: 260px;
-    height: 90px;
-    margin-left: 150px;
-    margin-bottom: 45px;
+  width: 260px;
+  height: 90px;
+  margin-left: 150px;
+  margin-bottom: 45px;
 }
 
 #navbar-srch {
-    width: 530px;
-    height: 40px;
-    font-size: 15px;
-    border-color: gainsboro;
-    border-radius: 30px;
-    border-width: 0.1px;
-    padding-left: 15px;
-    margin-bottom: 30px;
-    margin-top: -10px;
+  width: 530px;
+  height: 40px;
+  font-size: 15px;
+  border-color: gainsboro;
+  border-radius: 30px;
+  border-width: 0.1px;
+  padding-left: 15px;
+  margin-bottom: 30px;
+  margin-top: -10px;
 }
 
 #navbar-img {
-    width: 530px;
-    height: 40px;
-    font-size: 15px;
-    border-color: gainsboro;
-    border-radius: 30px;
-    border-width: 0.1px;
-    padding-left: 15px;
-    margin-bottom: 30px;
-    margin-top: 20px;
+  width: 530px;
+  height: 40px;
+  font-size: 15px;
+  border-color: gainsboro;
+  border-radius: 30px;
+  border-width: 0.1px;
+  padding-left: 15px;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
 
 #navbar-srch:hover {
-    border-color: black;
+  border-color: black;
 }
 
 #btns-srch {
-    margin-left: 130px;
+  margin-left: 130px;
 }
 
 #btns-img {
-    margin-left: 200px;
+  margin-left: 200px;
 }
 
 .btn-srch-img {
-    width: 125px;
-    height: 32.5px;
-    font-size: 14px;
-    background-color: rgb(245, 245, 245);
-    border-color: gainsboro;
-    border-width: 0px;
-    border-radius: 5px;
-    margin-left: 10px;
+  width: 125px;
+  height: 32.5px;
+  font-size: 14px;
+  background-color: gainsboro;
+  border-color: gainsboro;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-left: 10px;
 }
 
 .btn-srch-img:hover {
-    border-width: 0.1px;
-} 
+  border-width: 0.1px;
+}
 
 #header {
-    margin-top: -10px;
-    margin-left: -10px;
-    padding-bottom: 1px;
+  margin-top: -10px;
+  margin-left: -10px;
+  padding-bottom: 1px;
 }
 
 #advanced-search {
-    width: 1950px;
+  width: 1950px;
 }
 
 #form {
-    margin-top: -17px;
-    margin-left: 35px;
-    font-family: calibri;
+  margin-top: -17px;
+  margin-left: 35px;
+  font-family: calibri;
 }
 
 #form-item {
-    margin-top: 20px;
-    font-size: 14px;
+  margin-top: 20px;
+  font-size: 14px;
 }
 
-#navbar-advanced-srch-1, #navbar-advanced-srch-2, #navbar-advanced-srch-3,  #navbar-advanced-srch-4 {
-    height: 22px;
-    width: 580px;
-    border-color: rgb(245, 245, 245);
-    border-width: 0.1px;
-    margin-right: 10px;
+#navbar-advanced-srch-1, #navbar-advanced-srch-2, #navbar-advanced-srch-3, #navbar-advanced-srch-4 {
+  height: 22px;
+  width: 580px;
+  border-width: 0.1px;
+  margin-right: 10px;
 }
 
 #navbar-advanced-srch-1 {
-    margin-left: 75px;
+  margin-left: 75px;
 }
 
 #navbar-advanced-srch-2 {
-    margin-left: 18px;
+  margin-left: 18px;
 }
 
 #navbar-advanced-srch-3 {
-    margin-left: 53px;
+  margin-left: 53px;
 }
 
 #navbar-advanced-srch-4 {
-    margin-left: 42px;
+  margin-left: 42px;
 }
+
+#advanced-search-btn {
+  margin-top: 30px;
+  margin-left: 610px;
+}
+
+/*# sourceMappingURL=style.css.map */
